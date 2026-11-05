@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-reports-flutter",
+  "capabilityKey": "liberusoftware/module-genealogy-reports",
+  "presentation": "mobile-flutter",
+  "package": "module_genealogy_reports_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/genealogy/nextjs/reports.md",
+  "presentationPlan": "projects/genealogy/flutter/reports.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
